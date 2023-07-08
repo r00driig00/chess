@@ -17,4 +17,4 @@ El proyecto de ajedrez desarrollado con JavaScript, HTML y CSS es una aplicació
 
 ## API:
 
-\_Cloud Flare API\_:  https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+- Cloud Flare API:  https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
